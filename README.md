@@ -2,3 +2,4 @@
 creo un esempio da esercitazione
 mi esercito con Guido
 ho finito di esercitarmi 
+inizio a cazzeggiare 
